@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/angular-micro" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/root" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-micro" vcs="" />
+    <mapping directory="$PROJECT_DIR$/root" vcs="" />
   </component>
 </project>
